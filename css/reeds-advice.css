@@ -1,0 +1,36 @@
+.full-width {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.half-width {
+    width: 600px;
+    float: left;
+}
+
+.third-width {
+  width: 400px;
+  float: left;
+}
+
+/***** Header *****/
+
+head {
+    font-family: 'Major Mono Display', monospace;
+    font-size: 35px;
+    width: auto;
+}
+
+header {
+    font-family: 'Major Mono Display', monospace;
+    font-size: 25px;
+    text-align: center;
+}
+
+/***** ADVISE COLUMNS *****/
+
+.advice-columns {
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    padding: 25px;
+}
